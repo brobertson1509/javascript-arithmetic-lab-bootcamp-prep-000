@@ -22,7 +22,7 @@ function increment(a){
   return a++
 }
 
-function decrement(n){
+function decrement(a){
 return  a--
 }
 
