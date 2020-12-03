@@ -32,5 +32,5 @@ function makeInt(a){
 
 function preservedecimal(a){
   return parsefloat(a)
-  return parseInt(sldkjflksjf, 10)
+  return parsefloat(sldkjflksjf, 10)
 }
