@@ -19,7 +19,7 @@ return a/+b
 }
 
 function increment(a){
-  return a++
+  return ++a
 }
 
 function decrement(a){
