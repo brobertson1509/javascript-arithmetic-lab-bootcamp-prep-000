@@ -23,7 +23,7 @@ function increment(a){
 }
 
 function decrement(a){
-return  a--
+return  --a
 }
 
 function makeInt(a){
